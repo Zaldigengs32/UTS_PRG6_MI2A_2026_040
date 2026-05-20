@@ -1,4 +1,4 @@
-import MainApp from "./pages/LatihanKuis_040/MainApp";
+import MainApp from "./pages/UTS_FarmApp/MainApp";
 
 export default function App() {
     return <MainApp />;
